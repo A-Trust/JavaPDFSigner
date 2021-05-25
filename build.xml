@@ -1,0 +1,32 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>0</headerType>
+  <jar>D:\_dev\java\pdfsigner\exe\pdfsigner.jar</jar>
+  <outfile>D:\_dev\java\pdfsigner\exe\pdfSigner_v03.exe</outfile>
+  <errTitle></errTitle>
+  <jarArgs></jarArgs>
+  <chdir></chdir>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <icon></icon>
+  <jre>
+    <path></path>
+    <minVersion>1.5.0</minVersion>
+    <maxVersion></maxVersion>
+    <initialHeapSize>0</initialHeapSize>
+    <maxHeapSize>0</maxHeapSize>
+    <args></args>
+  </jre>
+  <versionInfo>
+    <fileVersion>0.3.0.0</fileVersion>
+    <txtFileVersion>www.a-trust.at</txtFileVersion>
+    <fileDescription>a.trust PdfSigner Version 0.3</fileDescription>
+    <copyright>a.trust GmbH</copyright>
+    <productVersion>0.3.0.0</productVersion>
+    <txtProductVersion>www.a-trust.at</txtProductVersion>
+    <productName>a.trust PdfSigner</productName>
+    <companyName>a.trust GmbH</companyName>
+    <internalName>PdfSigner</internalName>
+    <originalFilename>PdfSigner_v03.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>
